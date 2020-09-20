@@ -89,7 +89,7 @@ A GitHub repository with running examples of JUnit test cases using WebDriverMan
 
 ## Advanced
 
-Configuration parameters for WebDriverManager are set in the ``application.properties`` file:
+Configuration parameters for WebDriverManager are set in the ``webdrivermanager.properties`` file:
 
 ```properties
 wdm.targetPath=~/.m2/repository/webdriver
